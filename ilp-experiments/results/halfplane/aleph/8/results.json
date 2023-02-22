@@ -1,0 +1,1 @@
+{"problem_name": "halfplane", "system_id": ["aleph"], "system_name": "aleph", "trial": 8, "solution": "halfplane(A,B):-my_leq(A,5.5).\n", "total_exec_time": 0.8601755839999999, "conf_matrix": [999, 1, 953, 47], "extra_stats": null, "parameter": null, "__typ__": "ExperimentResult"}

@@ -1,0 +1,1 @@
+{"problem_name": "zendo1", "system_id": ["aleph"], "system_name": "aleph", "trial": 0, "solution": "zendo(A):-piece(A,B),contact(B,C).\n", "total_exec_time": 86.787073959, "conf_matrix": [1000, 0, 998, 2], "parameter": null, "__typ__": "ExperimentResult"}

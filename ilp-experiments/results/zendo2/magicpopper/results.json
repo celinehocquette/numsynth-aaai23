@@ -1,0 +1,1 @@
+{"problem_name": "zendo2", "system_id": ["magicpopper"], "system_name": "popper", "trial": null, "solution": "zendo(A):- piece(A,B),contact(B,C),contact(C,B).", "total_exec_time": 0.3413891199961654, "conf_matrix": [], "parameter": null, "__typ__": "ExperimentResult"}
